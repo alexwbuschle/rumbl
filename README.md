@@ -1,4 +1,4 @@
-Umblera project https://github.com/alexwbuschle/rumbrella
+Umbrela project https://github.com/alexwbuschle/rumbrella
 
 # Rumbl
 
